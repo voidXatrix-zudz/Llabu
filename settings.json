@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thelifepeace.aternos.me",
-    "port": 28645,
+    "ip": "deadworldsmp.aternos.me",
+    "port": 26712,
     "version": "",
     "try-creative": false
   },
