@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "deadworldsmp.aternos.me",
-    "port": 26712,
+    "ip": "blackwrld.aternos.me",
+    "port": 33412,
     "version": "",
     "try-creative": false
   },
